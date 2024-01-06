@@ -16,5 +16,3 @@ These first calculate the reduced pallete and then use Floyd Steinberg dithering
 ![output8](https://github.com/RyanKerstetter/ColorQuantization/assets/77638045/91bf5c48-fc4b-4da4-ac95-dfc87c9759c8)<br>
 16 colors<br>
 ![output16](https://github.com/RyanKerstetter/ColorQuantization/assets/77638045/9abe7467-ad78-4b02-83f0-9ced0b8b3f65)<br>
-8 colors<br>
-![output8](https://github.com/RyanKerstetter/ColorQuantization/assets/77638045/1d00a399-3859-4d90-b24d-03d79478563b)<br>
