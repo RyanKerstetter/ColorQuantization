@@ -7,3 +7,5 @@ Creates image with reduced color pallete<br>
 ![output4](https://github.com/RyanKerstetter/ColorQuantization/assets/77638045/c5ed8d22-c460-4101-9a54-246ab4e57162)<br>
 2 colors<br>
 ![output2](https://github.com/RyanKerstetter/ColorQuantization/assets/77638045/2e2ff6bb-891d-4930-8653-af2dabc1e8dc)<br>
+8 colors<br>
+![output8](https://github.com/RyanKerstetter/ColorQuantization/assets/77638045/1d00a399-3859-4d90-b24d-03d79478563b)
